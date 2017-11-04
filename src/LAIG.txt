@@ -1,0 +1,16 @@
+Tadeu
+1) desenhar hangar
+2) modelacao de helicoptero e por *cruz vermelha na cauda* (*3b*)(3 valores)
+3e) camara 3 que se desloca (1 valor)
+3f) fixar as letras no canto superior essquerdo(0.5 valores)
+
+Soneca
+1c) display lists (1 valor)
+3a) normais (0.5 valores)
+3c) luzes (1 valor)
+por cores por materials em vez de glColor
+arranjar codigo tipo criar cpps para organizar tudo
+
+Both
+4) animacao helicoptero (3 valores)
+
